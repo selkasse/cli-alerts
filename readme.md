@@ -1,4 +1,4 @@
-<h4>
+<h4 align="center">
 Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error.
 <br>
 
