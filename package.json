@@ -1,5 +1,5 @@
 {
-  "name": "cli-alerts",
+  "name": "sharif-cli-alerts",
   "version": "1.0.0",
   "description": "Cross-platform CLi alerts with colors & colorized symbols for success, info, warning, and error. Works on macOS, Linux, and Wndows",
   "license": "MIT",
