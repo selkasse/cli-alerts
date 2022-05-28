@@ -1,6 +1,8 @@
+<h4>
 Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error.
 <br>
-Work on macOS, Linux, and Windows.
+
+Works on macOS, Linux, and Windows.
 
 </h4>
 
