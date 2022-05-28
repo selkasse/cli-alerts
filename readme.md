@@ -1,5 +1,8 @@
 <h4 align="center">
+
 Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error.
+
+<br>
 <br>
 
 Works on macOS, Linux, and Windows.
